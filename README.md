@@ -2,7 +2,7 @@ Online Banking System
 -----------------------
 
 
-Features:
+**Features:**
 1.Account Registration
 2.Login to an account
 3.Cash Deposite
